@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Praveen-16/Portfolio-Praveen.git/static/css/main.787c3297.css",
-    "main.js": "/Praveen-16/Portfolio-Praveen.git/static/js/main.efb5f8e2.js",
-    "static/js/787.fb771931.chunk.js": "/Praveen-16/Portfolio-Praveen.git/static/js/787.fb771931.chunk.js",
-    "static/media/weather.png": "/Praveen-16/Portfolio-Praveen.git/static/media/weather.71a161d7ebb62b0b4fac.png",
-    "static/media/bookme.png": "/Praveen-16/Portfolio-Praveen.git/static/media/bookme.f9821072cb7bb3279e86.png",
-    "static/media/IMS.png": "/Praveen-16/Portfolio-Praveen.git/static/media/IMS.c5206cacc3fd74c99a7f.png",
-    "static/media/chatImage.png": "/Praveen-16/Portfolio-Praveen.git/static/media/chatImage.4783d4732f88f627e5a4.png",
-    "static/media/petstore.png": "/Praveen-16/Portfolio-Praveen.git/static/media/petstore.67c780b9464b94744892.png",
-    "static/media/blog.png": "/Praveen-16/Portfolio-Praveen.git/static/media/blog.967682d29fbc51bdb860.png",
-    "static/media/coinhiz.png": "/Praveen-16/Portfolio-Praveen.git/static/media/coinhiz.713d1e8ec168f126d38f.png",
-    "static/media/picture.png": "/Praveen-16/Portfolio-Praveen.git/static/media/picture.4c68eb856977f4eae16a.png",
-    "static/media/socialPedia.png": "/Praveen-16/Portfolio-Praveen.git/static/media/socialPedia.42029e55cf845930d73b.png",
-    "static/media/A-robot-using-a-laptop.webp": "/Praveen-16/Portfolio-Praveen.git/static/media/A-robot-using-a-laptop.ee0371e0596185e755f4.webp",
-    "index.html": "/Praveen-16/Portfolio-Praveen.git/index.html",
-    "main.787c3297.css.map": "/Praveen-16/Portfolio-Praveen.git/static/css/main.787c3297.css.map",
-    "main.efb5f8e2.js.map": "/Praveen-16/Portfolio-Praveen.git/static/js/main.efb5f8e2.js.map",
-    "787.fb771931.chunk.js.map": "/Praveen-16/Portfolio-Praveen.git/static/js/787.fb771931.chunk.js.map"
+    "main.css": "/Portfolio-Praveen/static/css/main.24302b70.css",
+    "main.js": "/Portfolio-Praveen/static/js/main.87ac4f7d.js",
+    "static/js/787.fb771931.chunk.js": "/Portfolio-Praveen/static/js/787.fb771931.chunk.js",
+    "static/media/weather.png": "/Portfolio-Praveen/static/media/weather.71a161d7ebb62b0b4fac.png",
+    "static/media/bookme.png": "/Portfolio-Praveen/static/media/bookme.f9821072cb7bb3279e86.png",
+    "static/media/IMS.png": "/Portfolio-Praveen/static/media/IMS.c5206cacc3fd74c99a7f.png",
+    "static/media/chatImage.png": "/Portfolio-Praveen/static/media/chatImage.4783d4732f88f627e5a4.png",
+    "static/media/petstore.png": "/Portfolio-Praveen/static/media/petstore.67c780b9464b94744892.png",
+    "static/media/blog.png": "/Portfolio-Praveen/static/media/blog.967682d29fbc51bdb860.png",
+    "static/media/coinhiz.png": "/Portfolio-Praveen/static/media/coinhiz.713d1e8ec168f126d38f.png",
+    "static/media/picture.png": "/Portfolio-Praveen/static/media/picture.4c68eb856977f4eae16a.png",
+    "static/media/socialPedia.png": "/Portfolio-Praveen/static/media/socialPedia.42029e55cf845930d73b.png",
+    "static/media/A-robot-using-a-laptop.webp": "/Portfolio-Praveen/static/media/A-robot-using-a-laptop.ee0371e0596185e755f4.webp",
+    "index.html": "/Portfolio-Praveen/index.html",
+    "main.24302b70.css.map": "/Portfolio-Praveen/static/css/main.24302b70.css.map",
+    "main.87ac4f7d.js.map": "/Portfolio-Praveen/static/js/main.87ac4f7d.js.map",
+    "787.fb771931.chunk.js.map": "/Portfolio-Praveen/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.787c3297.css",
-    "static/js/main.efb5f8e2.js"
+    "static/css/main.24302b70.css",
+    "static/js/main.87ac4f7d.js"
   ]
 }
